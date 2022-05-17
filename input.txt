@@ -23,3 +23,5 @@ added in remote after push
 9/7 10:16 am changes
 
 add in remote
+
+add in master branch in local
